@@ -1,0 +1,222 @@
+﻿/**********************************
+* 银行Logo start
+**********************************/
+.cssmod_banks {}
+.cssmod_banks img {border:0px;vertical-align:middle;}
+.cssmod_banks .banks_normal{width:98%;}
+.cssmod_banks .banks_normal label{float:none; margin-left:0; width:124px; height:25px; display:inline-block; text-align:left; background-image:url('../img/banks3.png'); background-repeat:no-repeat; cursor:pointer;}
+.cssmod_banks .banks_normal .bank_icbc			{background-position:0px   0px;}      
+.cssmod_banks .banks_normal .bank_cmb			{background-position:0px  -50px;}    
+.cssmod_banks .banks_normal .bank_cib			{background-position:0px  -100px;}  
+.cssmod_banks .banks_normal .bank_comm		{background-position:0px  -150px;}  
+.cssmod_banks .banks_normal .bank_szpab			{background-position:0px  -200px;}																					
+.cssmod_banks .banks_normal .bank_sdb			{background-position:0px  -250px;}  
+.cssmod_banks .banks_normal .bank_boc			{background-position:0px  -300px;}  
+.cssmod_banks .banks_normal .bank_ceb			{background-position:0px  -350px;}  
+.cssmod_banks .banks_normal .bank_ccb			{background-position:0px  -400px;}  
+.cssmod_banks .banks_normal .bank_spdb		{background-position:0px  -450px;}  
+.cssmod_banks .banks_normal .bank_cmbc		{background-position:0px  -500px;}  
+.cssmod_banks .banks_normal .bank_bos			{background-position:0px  -550px;}  
+.cssmod_banks .banks_normal .bank_abc			{background-position:0px  -600px;}  
+.cssmod_banks .banks_normal .bank_bccb		{background-position:0px  -650px;}  
+.cssmod_banks .banks_normal .bank_hkbchina	{background-position:0px  -700px;}  
+.cssmod_banks .banks_normal .bank_njcb			{background-position:0px  -750px;}  
+																								   
+.cssmod_banks .banks_normal .bank_hccb		{background-position:0px  -850px;}																								  
+.cssmod_banks .banks_normal .bank_nbcb		{background-position:0px  -900px;}  
+.cssmod_banks .banks_normal .bank_chinapay		{background-position:0px  -950px;} 											 
+																								
+.cssmod_banks .banks_normal .bank_hkbea		{background-position:0px  -1050px;}
+.cssmod_banks .banks_normal .bank_gdb			{background-position:0px  -1100px;}
+.cssmod_banks .banks_normal .bank_bjrcb			{background-position:0px  -1150px;}			
+.cssmod_banks .banks_normal .bank_citic			{background-position:0px  -1200px;}
+.cssmod_banks .banks_normal .bank_psbc		{background-position:0px  -1250px;}
+																							
+.cssmod_banks .banks_normal .bank_hxb			{background-position:0px  -1350px;}
+.cssmod_banks .banks_normal .bank_cbhb		{background-position:0px  -1400px;}
+.cssmod_banks .banks_normal .bank_czb			{background-position:0px  -1450px;}
+.cssmod_banks .banks_normal .bank_gnxs-net		{background-position:0px  -1500px;}
+.cssmod_banks .banks_normal .bank_gzcb		{background-position:0px  -1550px;}
+.cssmod_banks .banks_normal .bank_hnnxs		{background-position:0px  -1600px;}
+.cssmod_banks .banks_normal .bank_jcb			{background-position:0px  -1650px;}
+.cssmod_banks .banks_normal .bank_ips			{background-position:0px  -1700px;}
+.cssmod_banks .banks_normal .bank_sde-net			{background-position:0px  -1750px;}
+.cssmod_banks .banks_normal .bank_shrcb		{background-position:0px  -1800px;}
+.cssmod_banks .banks_normal .bank_sxjs			{background-position:0px  -1850px;}
+.cssmod_banks .banks_normal .bank_wzcb		{background-position:0px  -1900px;}
+.cssmod_banks .banks_normal .bank_zhnx		{background-position:0px  -1950px;}
+.cssmod_banks .banks_normal .bank_snxs		{background-position:0px  -2000px;}
+.cssmod_banks .banks_normal .bank_zgxh		{background-position:0px  -2050px;}
+
+
+.cssmod_banks .banks_normal .biz_icbc			{width:160px;background-position:-300px   0px;}      
+.cssmod_banks .banks_normal .biz_cmb			{width:160px;background-position:-300px  -50px;}    
+.cssmod_banks .banks_normal .biz_cib			{width:160px;background-position:-300px  -100px;}  
+.cssmod_banks .banks_normal .biz_comm		{width:160px;background-position:-300px  -150px;}  
+.cssmod_banks .banks_normal .biz_szpab			{width:160px;background-position:-300px  -200px;}																					
+.cssmod_banks .banks_normal .biz_sdb			{width:160px;background-position:-300px  -250px;}  
+.cssmod_banks .banks_normal .biz_boc			{width:160px;background-position:-300px  -300px;}  
+.cssmod_banks .banks_normal .biz_ceb			{width:160px;background-position:-300px  -350px;}  
+.cssmod_banks .banks_normal .biz_ccb			{width:160px;background-position:-300px  -400px;}  
+.cssmod_banks .banks_normal .biz_spdb		{width:160px;background-position:-300px  -450px;}  
+.cssmod_banks .banks_normal .biz_cmbc		{width:160px;background-position:-300px  -500px;}  
+.cssmod_banks .banks_normal .biz_bos			{width:160px;background-position:-300px  -550px;}  
+.cssmod_banks .banks_normal .biz_abc			{width:160px;background-position:-300px  -600px;}  
+.cssmod_banks .banks_normal .biz_bccb		{width:160px;background-position:-300px  -650px;}  
+.cssmod_banks .banks_normal .biz_hkbchina	{width:160px;background-position:-300px  -700px;}  
+.cssmod_banks .banks_normal .biz_njcb			{width:160px;background-position:-300px  -750px;}  
+																								   
+.cssmod_banks .banks_normal .biz_hccb		{width:160px;background-position:-300px  -850px;}																								  
+.cssmod_banks .banks_normal .biz_nbcb		{width:160px;background-position:-300px  -900px;}  
+.cssmod_banks .banks_normal .biz_chinapay		{width:160px;background-position:-300px  -950px;} 											 
+																								
+.cssmod_banks .banks_normal .biz_hkbea		{width:160px;background-position:-300px  -1050px;}
+.cssmod_banks .banks_normal .biz_gdb			{width:160px;background-position:-300px  -1100px;}
+.cssmod_banks .banks_normal .biz_bjrcb			{width:160px;background-position:-300px  -1150px;}			
+.cssmod_banks .banks_normal .biz_citic			{width:160px;background-position:-300px  -1200px;}
+.cssmod_banks .banks_normal .biz_psbc		{width:160px;background-position:-300px  -1250px;}
+																							
+.cssmod_banks .banks_normal .biz_hxb			{width:160px;background-position:-300px  -1350px;}
+.cssmod_banks .banks_normal .biz_cbhb		{width:160px;background-position:-300px  -1400px;}
+.cssmod_banks .banks_normal .biz_czb			{width:160px;background-position:-300px  -1450px;}
+.cssmod_banks .banks_normal .biz_gnxs-net		{width:160px;background-position:-300px  -1500px;}
+.cssmod_banks .banks_normal .biz_gzcb		{width:160px;background-position:-300px  -1550px;}
+.cssmod_banks .banks_normal .biz_hnnxs		{width:160px;background-position:-300px  -1600px;}
+.cssmod_banks .banks_normal .biz_jcb			{width:160px;background-position:-300px  -1650px;}
+.cssmod_banks .banks_normal .biz_ips			{width:160px;background-position:-300px  -1700px;}
+.cssmod_banks .banks_normal .biz_sde-net			{width:160px;background-position:-300px  -1750px;}
+.cssmod_banks .banks_normal .biz_shrcb		{width:160px;background-position:-300px  -1800px;}
+.cssmod_banks .banks_normal .biz_sxjs			{width:160px;background-position:-300px  -1850px;}
+.cssmod_banks .banks_normal .biz_wzcb		{width:160px;background-position:-300px  -1900px;}
+.cssmod_banks .banks_normal .biz_zhnx		{width:160px;background-position:-300px  -1950px;}
+.cssmod_banks .banks_normal .biz_snxs		{width:160px;background-position:-300px  -2000px;}
+.cssmod_banks .banks_normal .biz_zgxh		{width:160px;background-position:-300px  -2050px;}
+
+
+.cssmod_banks .banks_mini{ width:98%;}
+.cssmod_banks .banks_mini label{ float:none; margin-left:0; padding-top:2px; height:18px; _width:70px;min-height:70px; padding-left:22px; padding-right:10px; white-space:nowrap;word-break:normal; line-height:16px; display:inline-block; text-align:left; background-image:url('../img/banks.png'); background-repeat:no-repeat;cursor:pointer;font-size:12px;}
+.cssmod_banks .banks_mini img  { margin:5px 4px 5px 0px; height:20px; width:20px;background-image:url('../img/banks.png');}
+
+.cssmod_banks .banks_mini .bank_icbc				{background-position:0px 0px;}
+.cssmod_banks .banks_mini .bank_cmb				{background-position:0px -20px;}
+.cssmod_banks .banks_mini .bank_cib				{background-position:0px -40px;}
+.cssmod_banks .banks_mini .bank_comm		{background-position:0px -60px;}
+.cssmod_banks .banks_mini .bank_szpab		{background-position:0px -80px;}
+.cssmod_banks .banks_mini .bank_sdb				{background-position:0px -100px;}
+.cssmod_banks .banks_mini .bank_boc			{background-position:0px -120px;}
+.cssmod_banks .banks_mini .bank_ceb			{background-position:0px -140px;}
+.cssmod_banks .banks_mini .bank_ccb				{background-position:0px -160px;}
+.cssmod_banks .banks_mini .bank_spdb			{background-position:0px -180px;}
+.cssmod_banks .banks_mini .bank_cmbc			{background-position:0px -200px;}
+.cssmod_banks .banks_mini .bank_bos			{background-position:0px -220px;}
+.cssmod_banks .banks_mini .bank_abc				{background-position:0px -240px;}
+.cssmod_banks .banks_mini .bank_bccb		{background-position:0px -260px;}
+.cssmod_banks .banks_mini .bank_hkbchina	{background-position:0px -280px;}
+.cssmod_banks .banks_mini .bank_njcb				{background-position:0px -300px;}
+
+.cssmod_banks .banks_mini .bank_hccb				{background-position:0px -340px;}
+.cssmod_banks .banks_mini .bank_nbcb		{background-position:0px -360px;}
+
+
+.cssmod_banks .banks_mini .bank_hkbea		{background-position:0px -420px;}
+.cssmod_banks .banks_mini .bank_gdb			{background-position:0px -440px;}
+.cssmod_banks .banks_mini .bank_bjrcb			{background-position:0px -460px;}
+.cssmod_banks .banks_mini .bank_citic			{background-position:0px -480px;}
+.cssmod_banks .banks_mini .bank_psbc		{background-position:0px -500px;}
+
+.cssmod_banks .banks_mini .bank_hxb			{background-position:0px -540px;}
+.cssmod_banks .banks_mini .bank_cbhb		{background-position:0px -558px;}
+.cssmod_banks .banks_mini .bank_czb			{background-position:0px -579px;}
+.cssmod_banks .banks_mini .bank_gnxs		{background-position:0px -600px;}
+.cssmod_banks .banks_mini .bank_gzcb		{background-position:0px -620px;}
+.cssmod_banks .banks_mini .bank_hnnxs		{background-position:0px -640px;}
+.cssmod_banks .banks_mini .bank_jcb			{background-position:0px -660px;}
+.cssmod_banks .banks_mini .bank_ips			{background-position:0px -680px;}
+.cssmod_banks .banks_mini .bank_sde			{background-position:0px -700px;}
+.cssmod_banks .banks_mini .bank_shrcb		{background-position:0px -720px;}
+.cssmod_banks .banks_mini .bank_sxjs			{background-position:0px -740px;}
+.cssmod_banks .banks_mini .bank_wzcb		{background-position:0px -760px;}
+.cssmod_banks .banks_mini .bank_zhnx			{background-position:0px -700px;}
+
+
+.cssmod_banks .banks_biz{ width:98%;}
+.cssmod_banks .banks_biz label{ float:none;margin:5px;height:42px;width:129px;white-space:nowrap;word-break:normal; display:inline-block; text-align:left; background-image:url('../img/banks2.png'); background-repeat:no-repeat;cursor:pointer;font-size:12px;}
+
+.cssmod_banks .banks_biz .bank_icbc				{background-position:0px 0px;}
+.cssmod_banks .banks_biz .bank_ccb				{background-position:0px -43px;}
+.cssmod_banks .banks_biz .bank_abc				{background-position:0px -86px;}
+.cssmod_banks .banks_biz .bank_boc				{background-position:0px -129px;}
+.cssmod_banks .banks_biz .bank_ceb				{background-position:0px -172px;}
+.cssmod_banks .banks_biz .bank_cib				{background-position:0px -215px;}
+.cssmod_banks .banks_biz .bank_zxb				{background-position:0px -258px;}
+.cssmod_banks .banks_biz .bank_pab				{background-position:0px -301px;}
+.cssmod_banks .banks_biz .bank_hb				{background-position:0px -344px;}
+.cssmod_banks .banks_biz .bank_bnb				{background-position:0px -387px;}
+.cssmod_banks .banks_biz .bank_bea				{background-position:0px -430px;}
+.cssmod_banks .banks_biz .bank_czb				{background-position:0px -473px;}
+.cssmod_banks .banks_biz .bank_bn				{background-position:0px -516px;}
+.cssmod_banks .banks_biz .bank_gdb				{background-position:0px -559px;}
+.cssmod_banks .banks_biz .bank_spd				{background-position:0px -602px;}
+.cssmod_banks .banks_biz .bank_sfz				{background-position:0px -645px;}
+.cssmod_banks .banks_biz .bank_bsh				{background-position:0px -688px;}
+.cssmod_banks .banks_biz .bank_cbb				{background-position:0px -731px;}
+.cssmod_banks .banks_biz .bank_hkb				{background-position:0px -774px;}
+.cssmod_banks .banks_biz .bank_wzb				{background-position:0px -817px;}
+.cssmod_banks .banks_biz .bank_jsb				{background-position:0px -860px;}
+.cssmod_banks .banks_biz .bank_gsb				{background-position:0px -903px;}
+.cssmod_banks .banks_biz .bank_snb				{background-position:0px -946px;}
+.cssmod_banks .banks_biz .bank_gfzb				{background-position:0px -989px;}
+.cssmod_banks .banks_biz .bank_zhb				{background-position:0px -1032px;}
+.cssmod_banks .banks_biz .bank_bjnb				{background-position:0px -1075px;}
+.cssmod_banks .banks_biz .bank_bjb				{background-position:0px -1118px;}
+.cssmod_banks .banks_biz .bank_hzb				{background-position:0px -1161px;}
+.cssmod_banks .banks_biz .bank_sdb				{background-position:0px -1204px;}
+.cssmod_banks .banks_biz .bank_ycb				{background-position:0px -1247px;}
+
+.cssmod_banks .biz_banks_list .banks2_icbc 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_icbc.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_ccb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_ccb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_abc 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_abc.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bbc 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bbc.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_ceb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_ceb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_cib 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_cib.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_zxb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_zxb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_pab 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_pab.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_hb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_hb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bnb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bnb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bea 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bea.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_czb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_czb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bn 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bn.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_gdb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_gdb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_spd 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_spd.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_sfz 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_sfz.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bsh 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bsh.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_cbb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_cbb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_hkb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_hkb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_xzb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_xzb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_jsb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_jsb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_gsb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_gsb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_snb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_snb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_gfzb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_gfzb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_zhb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_zhb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bjnb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bjnb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_bjb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_bjb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_hzb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_hzb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_sdb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_sdb.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .banks2_ycb 		{display:block;width:129px;height:42px;background-image:url('../img/banks2_ycb.png');background-repeat:no-repeat;}
+
+/**********************************
+* 银行Logo end
+**********************************/
+
+/**********************************
+* 盛大集团客户Logo start
+**********************************/
+.cssmod_banks .biz_banks_list .biz_list_ku6 			{display:block;width:129px;height:42px;background-image:url('../img/biz_list_ku6.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .biz_list_bambook 		{display:block;width:129px;height:42px;background-image:url('../img/biz_list_bambook.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .biz_list_shop 		{display:block;width:129px;height:42px;background-image:url('../img/biz_list_shop.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .biz_list_qidian 		{display:block;width:129px;height:42px;background-image:url('../img/biz_list_qidian.png');background-repeat:no-repeat;}
+.cssmod_banks .biz_banks_list .biz_list_hongxiu 		{display:block;width:129px;height:42px;background-image:url('../img/biz_list_hongxiu.png');background-repeat:no-repeat;}
+
+ /**********************************
+* 盛大集团客户Logo end
+**********************************/

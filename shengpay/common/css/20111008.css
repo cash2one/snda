@@ -1,0 +1,26 @@
+.citiao-title{padding:15px 20px 5px 20px;font-size:14px;border-bottom:2px solid #4bb4ee;}
+.citiao-title a{font-size:12px;font-weight:normal;position:absolute;margin-left:550px;}
+.citiao-box{border:1px solid #ededed;padding:25px 100px 25px 100px;}
+.citiao-tips{border:1px solid #ffdb85;height:30px;line-height:30px;padding-left:35px;color:#6c5012;background:#fff3d9 url('../img/icon_citiao_wa.png') no-repeat 10px center}
+.citiao-table label{display:block;padding-right:10px;text-align:right;line-height:35px;_line-height:40px;}
+.citiao-table b{font-size:18px;font-weight:700;color:#7d7d7d;}
+.citiao-rechange{font-size:18px;font-weight:700;color:#7d7d7d;}
+.citiao-exp-tips{color:#bababa;}
+.citiao-exp-content{line-height:35px;}
+.citiao-exp-content input{vertical-align:-2px}
+.citiao-form-area{width:700px;margin:15px auto}
+.citiao-table td{padding:10px 0px;}
+.citiao-history{position:relative;float:left;margin-left:10px;margin-top:10px;width:230px;}
+.citiao-history-box{position:absolute;_left:0px;_top:15px;color:#f8fbff;border:1px solid #c2d0e2;padding:10px;background:#f8fbff;}
+.citiao-history-box ul{list-style:none;}
+.citiao-history-box ul li{padding:3px 50px 3px 0px;}
+.citiao-history-box ul li a{font-size:16px;color:#383838;font-weight:700;padding-left:10px;background:url('../img/icon-renzheng-dotted.png') no-repeat left center}
+.citiao-history-box ul li a:hover{color:#0855b5}
+.citiao-b-height{display:inline-block;line-height:35px}
+.citiao-box-close{position:absolute;right:3px;top:5px;_top:0px;}
+.renzheng-freetext-big-focus{padding:4px 3px;width:173px;height:16px;font-size:18px;color:#7d7d7d;font-weight:700;border:2px solid #9fc1e7;background:#fff;vertical-align:middle}
+.renzheng-freetext-smaller{padding:4px 3px 3px 3px;width:50px;vertical-align: middle;color:#989898;border:1px solid #e1e1e1;background:#fff;vertical-align:middle}
+
+
+/****20111020*****/
+.nextBand{text-align:right;padding-top:15px;}

@@ -1,0 +1,170 @@
+﻿/**********************************
+* 游戏logo Start
+**********************************/
+.cssmod_games {}
+  
+.game71,.game30,.game10030,.game6,.game10006,.game10108,.game39,.game44,.game45,.game22,.game609,.game106,.game1,.game20001,.game79,.game108,.game73
+{width: 77px;height: 57px;background-image: url('../img/game_abc.jpg');background-repeat: no-repeat;}
+.game71{background-position: 0px 0px;}
+.game30{background-position: -100px 0px;}
+.game10030{background-position: -100px 0px;}
+.game6{background-position: -200px 0px;}
+.game10006{background-position: -200px 0px;}
+.game10108{background-position: -200px 0px;}
+.game39{background-position: -300px 0px;}
+.game44{background-position: -400px 0px;}
+.game45{background-position: -500px 0px;}
+.game22{background-position: -600px 0px;}
+.game609{background-position: -700px 0px;}
+.game106{background-position: -800px 0px;}
+.game1{background-position: -900px 0px;}
+.game20001{background-position: 0px -60px;}
+.game79{background-position: -100px -60px;}
+.game108{background-position: -200px -60px;}
+.game73{background-position: -300px -60px;}
+.game92,.game577,.game573,.game303,.game14,.game50,.game575,.game643,.game576,.game17,.game61,.game200003900,.game602,.game200002300,.game666,
+.game200011300,.game599,.game200026400,.game100000600
+{width: 77px;height: 57px;background-image: url('../img/game_defg.jpg');background-repeat: no-repeat;}
+.game92{background-position: 0px 0px;}
+.game577{background-position: -100px 0px;}
+.game573{background-position: -200px 0px;}
+.game303{background-position: -300px 0px;}
+.game14{background-position: -400px 0px;}
+.game50{background-position: -500px 0px;}
+.game575{background-position: -600px 0px;}
+.game643{background-position: -700px 0px;}
+.game576{background-position: -800px 0px;}
+.game17{background-position: -900px 0px;}
+.game61{background-position: 0px -60px;}
+.game200003900{background-position: -200px -60px;}
+.game602{background-position: -300px -60px;}
+.game200002300{background-position: -400px -60px;}
+.game666{background-position: -500px -60px;}
+.game200011300{background-position: -600px -60px;}
+.game599{background-position: -700px -60px;}
+.game200026400{background-position: -800px -60px;}
+.game100000600{background-position: -900px -60px;}
+.game95,.game91,.game580,.game82,.game7,.game581,.game56,.game64,.game41,.game604,.game606,.game607,.game608,.game610,.game613,.game615,.game629,.game642,.game659,.game801,.game36,.game89,.game671,.game200009400,.game200009300,.game200022200
+{width: 77px;height: 57px;background-image: url('../img/game_hijkl.jpg');background-repeat: no-repeat;}
+.game95{background-position: 0px 0px;}
+.game91{background-position: -100px 0px;}
+.game580{background-position: -200px 0px;}
+.game82{background-position: -300px 0px;}
+.game7{background-position: -400px 0px;}
+.game581{background-position: -500px 0px;}
+.game56{background-position: -600px 0px;}
+.game64{background-position: -700px 0px;}
+.game41{background-position: -800px 0px;}
+.game604{background-position: -900px 0px;}
+.game606{background-position: 0px -60px;}
+.game607{background-position: -100px -60px;}
+.game608{background-position: -200px -60px;}
+.game610{background-position: -300px -60px;}
+.game613{background-position: -400px -60px;}
+.game615{background-position: -500px -60px;}
+.game629{background-position: -600px -60px;}
+.game642{background-position: -700px -60px;}
+.game659{background-position: -800px -60px;}
+.game801{background-position: -900px -60px;}
+.game36{background-position: 0px -120px;}
+.game89{background-position: -100px -120px;}
+.game671{background-position: -300px -120px;}
+.game200009400{background-position: -400px -120px;}
+.game200009300{background-position: -500px -120px;}
+.game200022200{background-position: -500px -120px;}
+.game5,.game574,.game102,.game84,.game2,.game11,.game10,.game70,.game596,.game600,.game620,.game640,.game649,.game654,.game657,.game670,.game200012500,.game55,.game200012500,.game200035400,.game200037500
+{width: 77px;height: 57px;background-image: url('../img/game_mnopq.jpg');background-repeat: no-repeat;}
+.game5{background-position: 0px 0px;}
+.game574{background-position: -100px 0px;}
+.game102{background-position: -200px 0px;}
+.game84{background-position: -300px 0px;}
+.game2{background-position: -400px 0px;}
+.game11{background-position: -500px 0px;}
+.game10{background-position: -600px 0px;}
+.game70{background-position: -700px 0px;}
+.game596{background-position: -800px 0px;}
+.game600{background-position: -900px 0px;}
+.game620{background-position: 0px -60px;}
+.game640{background-position: -100px -60px;}
+.game649{background-position: -200px -60px;}
+.game654{background-position: -300px -60px;}
+.game657{background-position: -400px -60px;}
+.game670{background-position: -500px -60px;}
+.game200012500{background-position: -600px -60px;}
+.game55{background-position: -700px -60px;}
+.game200012500{background-position: -800px -60px;}
+.game200035400{background-position: -900px -60px;}
+.game200037500{background-position: 0px -120px;}
+.game4,.game579,.game13,.game8,.game10008,.game597,.game54,.game15,.game75,.game31,.game205,.game578,.game582,
+.game601,.game624,.game628,.game632,.game639,.game645,.game652,.game660,.game588,.game200028500,.game200025700,.game200018700,
+.game200030700,.game200030000
+{width: 77px;height: 57px;background-image: url('../img/game_rstu.jpg');background-repeat: no-repeat;}
+.game4{background-position: 0px 0px;}
+.game579{background-position: -100px 0px;}
+.game13{background-position: -200px 0px;}
+.game8{background-position: -300px 0px;}
+.game10008{background-position: -300px 0px;}
+.game597{background-position: -400px 0px;}
+.game54{background-position: -500px 0px;}
+.game15{background-position: -600px 0px;}
+.game75{background-position: -700px 0px;}
+.game31{background-position: -800px 0px;}
+.game205{background-position: -900px 0px;}
+.game578{background-position: 0px -60px;}
+.game582{background-position: -100px -60px;}
+.game601{background-position: -200px -60px;}
+.game624{background-position: -300px -60px;}
+.game628{background-position: -400px -60px;}
+.game632{background-position: -500px -60px;}
+.game639{background-position: -600px -60px;}
+.game645{background-position: -700px -60px;}
+.game652{background-position: -800px -60px;}
+.game660{background-position: -900px -60px;}
+.game588{background-position: 0px -120px;}
+.game200028500{background-position: -100px -120px;}
+.game200025700{background-position: -200px -120px;}
+.game200018700{background-position: -300px -120px;}
+.game200030700{background-position: -400px -120px;}
+.game200030000{background-position: -500px -120px;}
+.game570,.game590,.game101,.game16,.game583,.game586,.game48,.game10048,.game598,.game600,.game616,.game623,.game88,.game200025000,.game200032300
+{width: 77px;height: 57px;background-image: url('../img/game_vwx.jpg');background-repeat: no-repeat;}
+.game570{background-position: 0px 0px;}
+.game590{background-position: -100px 0px;}
+.game101{background-position: -200px 0px;}
+.game16{background-position: -300px 0px;}
+.game583{background-position: -400px 0px;}
+.game586{background-position: -500px 0px;}
+.game48{background-position: -600px 0px;}
+.game10048{background-position: -600px 0px;}
+.game598{background-position: -700px 0px;}
+.game600{background-position: -800px 0px;}
+.game616{background-position: -900px 0px;}
+.game623{background-position: 0px -60px;}
+.game88{background-position: -100px -60px;}
+.game200025000{background-position: -200px -60px;}
+.game200032300{background-position: -300px -60px;}
+.game78,.game60,.game9,.game10009,.game67,.game585,.game587,.game569,.game591,.game52,.game617,.game619,.game96,.game200016900,.game200010300,.game906,.game200012800,.game200020500
+{width: 77px;height: 57px;background-image: url('../img/game_yz.jpg');background-repeat: no-repeat;}
+.game78{background-position: 0px 0px;}
+.game60{background-position: -100px 0px;}
+.game9{background-position: -200px 0px;}
+.game10009{background-position: -200px 0px;}
+.game67{background-position: -300px 0px;}
+.game585{background-position: -400px 0px;}
+.game587{background-position: -500px 0px;}
+.game569{background-position: -600px 0px;}
+.game591{background-position: -700px 0px;}
+.game52{background-position: -800px 0px;}
+.game617{background-position: -900px 0px;}
+.game619{background-position: 0px -60px;}
+.game96{background-position: -100px -60px;}
+.game200016900{background-position: -200px -60px;}
+.game200010300{background-position: -300px -60px;}
+.game906{background-position: -400px -60px;}
+.game200012800{background-position: -500px -60px;}
+.game200020500{background-position: -600px -60px;}
+
+
+/**********************************
+* 游戏logo end
+**********************************/

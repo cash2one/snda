@@ -1,0 +1,30 @@
+﻿.mini_ad_list{padding-left:10px;width:157px;}
+.mini_ad_list .icon_left{width:auto;height:auto;margin-left:0;margin-right:8px;}
+.mini_ad_list_txt{text-indent:2em;}
+
+.panel_box_tab.fixcolor .tab_item{color:#07679A;}
+.panel_box_tab.fixcolor{background:url(../img/panel_title_new.png) repeat-x 0 0;}
+
+.weibo{padding:5px 0 15px 75px;border-style:none;background-image:none;line-height:30px;height:51px;overflow:hidden;}
+.weibo_icon{float:left;margin-left:-65px;margin-top:8px;_display:inline;}
+.btn_weibo_link{height:21px;width:58px;line-height:21px;font-weight:400;color:#333;}
+.btn_weibo_link:hover{color:#EB6100;}
+
+.index_rolling_list{width:525px;}
+
+.cssmod_index_rolling {}
+.cssmod_index_rolling .rolling_pre 			{margin-left:426px; }
+.cssmod_index_rolling .rolling_pause 		{margin-left:454px; }
+.cssmod_index_rolling .rolling_next 		{margin-left:482px; }
+.cssmod_index_rolling .rolling_pre_disabled {margin-left:426px; }
+.cssmod_index_rolling .rolling_play			{margin-left:454px;}
+.cssmod_index_rolling .rolling_next_disabled{margin-left:482px;}
+
+.btn_order{width:72px;height:23px;line-height:23px;display:inline-block;text-align:center;font-weight:700;color:#fff;font-size:12px;border:none;background-color:transparent;background-image:url('../img/btn_order.png');background-repeat:no-repeat;}
+
+.special_service{line-height:28px;}
+.panel_box_tab{overflow:hidden;}
+/*
+.clearfix{_zoom:1;}
+.clearfix:after{content:".";display:block;clear:both;line-height:0;height:0;overflow:hidden;}*/
+.page_body_main{overflow:hidden;}

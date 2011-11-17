@@ -1,0 +1,104 @@
+﻿
+
+/**********************************
+*  2011-11-03 改版 Start
+**********************************/
+/* edit 20111114 */
+.page_head_top{height:80px;}
+.page_head_top_left{float:left;padding-top:25px;width:400px;}
+.rolling_icons{border:1px solid #d4e2e9}
+.panel_mini .panel_box_content{border:1px solid #d4e2e9;border-top-width:0px; background-color:White;}
+.panel_box_tab .couple_tab_item_selected{width:50%;float:left;font-size:14px;font-weight:700;text-align:center;background-color:#fff;margin-top:1px;_display:inline;margin-right:-1px;margin-left:-1px;border-right:solid 1px #d4e2e9;border-left:solid 1px #d4e2e9;height:29px;line-height:28px;}
+
+
+
+.clear_both { clear:both; font-size:1px; height:1px; line-height:1px; overflow:hidden; }
+.clearR:after { content:'\20'; height:0; clear:both; display:block; }
+.clearR {*zoom:1; overflow:hidden; }
+/*轮播*/
+.payCard-index-slide{float:left; width:554px; position:relative;}
+.payCard-index-slide-sub{width:150px; float:left; padding-left:10px; margin-top:-10px;}
+.payCard-index-slide-sub img{margin-top:10px;}
+.right-link{position:absolute; right:12px; top:180px;}
+.slide-point ul{margin:0px; padding:0px;}
+.slide_point li{float:left; list-style:none; margin-left:3px;}
+.slide_point .selected a{font-size:14px; font-weight:bold; color:#FFF; display:inline-block; width:18px; height:18px; text-align:center; line-height:18px; background-color:#64c4dd;}
+.slide_point a{font-size:14px; font-weight:bold; color:#999; display:inline-block;width:20px; height:20px; text-align:center; line-height:18px; background-color:#dadada; opacity:0.7;-moz-border-radius:20px; -webkit-border-radius:20px; border-radius:20px;}
+
+.section_small_new{}
+.section_small_new .field_item .field_item_title{width:60px;}
+.section_small_new .field_item_content{margin-left:65px;}
+
+.right_link_sns{float:right;display:inline-block;height:26px;line-height:normal;padding:4px 10px 0px 0px;overflow:hidden}
+
+.special_service_new{line-height:30px;padding:0 12px;margin-bottom:10px;}
+.special_service_list{width:100%;}
+.special_service_box {width:220px;margin:auto;}
+.special_service_box h3{padding:0px 0px 0px 10px;text-align:left;margin:0px;font-size:12px;color:#07679c;line-height:27px;height:27px;background-color:#d7ebf3;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;}
+
+.btn_order_new{display:inline-block;text-align:center;width:75px;height:23px;color:#07679c;border:none;line-height:25px;cursor:pointer;background-color:transparent;background-image:url('../img/btn_order_new.png');background-repeat:no-repeat;}
+
+.spay-card{text-align:center;padding:10px 0px;}
+.spay-card-buy{padding:8px 0px 0px 55px;*padding:14px 0px 0px 55px}
+
+.spay-vip-centrer{padding:5px 15px;}
+.spay-vip-centrer h3{margin:0px;padding:0px 0px 5px 0px;font-size:12px;}
+.m-hot{}
+.spay-m-hot{margin:0px;padding:0px;clear:left}
+.spay-m-hot dt{margin:0px;padding:5px 0px 0px 0px;float:left;}
+.spay-m-hot dd{margin:0px;padding:0px 10px;float:left;display:inline-block;line-height:27px;}
+.spay-shopping{margin:0px;padding:0px;}
+.spay-shopping dt{margin:0px;padding:5px 0px 0px 0px;float:left;height:30px;}
+.spay-shopping dd{margin:0px;padding:0px 5px 5px 5px;float:left;line-height:27px;}
+.top-hot{display:block;width:47px;text-align:center;color:#fff;font-weight:700;line-height:17px;height:15px;background:url('../img/hot-title.png') no-repeat}
+.user-word{padding-left:80px;color:#666;line-height:22px;margin-bottom:10px;}
+.user-word img{float:left;margin-left:-80px;display:inline}
+.user-more{width:100%;}
+.user-more td{padding:5px 0px;}
+.user-more dl{margin:0px;padding:0px;line-height:22px;}
+.user-more dl dt{margin:0px;padding:0px;}
+.user-more dl dd{margin:0px;padding:0px 0px 0px 10px;color:#666;background:url('../img/list_disc.png') no-repeat left center}
+.user-more dl dd a{color:#666}
+.user-more dl dd a:hover{color:#ff6600}
+.spay-news{padding:10px;}
+.spay-news ul{margin:0px;padding:0px;line-height:22px;}
+.spay-news ul li{margin:0px;padding:0px 0px 0px 10px;background:url('../img/list_disc.png') no-repeat left center}
+.spay-news ul li a{color:#666}
+.spay-news ul li a:hover{color:#ff6600}
+.spay_passport{padding-left:65px;color:#66;line-height:22px;}
+.spay_passport img{float:left;margin-left:-65px;display:inline;}
+.spay-passport{width:100%;color:#666;}
+.spay-passport td{line-height:17px;}
+.spay-passport img{margin-right:10px;}
+.spay-banks{line-height:27px;}
+.spay-banks a{display:inline-block;margin:5px;}
+.wallet_info_unactive_new{margin:0 5px;padding:5px 10px;border-bottom:dashed 1px #BED5E0;line-height:1.8;}
+.have-card-get{padding-left:3px;padding-top:5px;_padding-top:10px;}
+.have-card-get img{vertical-align:text-top}
+.text-o{color:#ff6600;}
+.btn_check_link_new{display:inline-block;text-align:center;line-height:25px;width:72px;height:23px;border:none;color:#fff;font-weight:700;background-color:transparent;background-image:url("../img/btn_order.png");background-repeat:no-repeat;background-position: 0 0;}
+.btn_check_link_new_big{display:inline-block;text-align:center;line-height:25px;width:99px;height:23px;border:none;color:#fff;font-weight:700;background-color:transparent;background-image:url("../img/btn_order_big.png");background-repeat:no-repeat;background-position: 0 0;}
+.line-style-06{ margin:8px;*margin:6px;border-bottom:1px dashed #BED5E1; height:3px; overflow:hidden;}
+
+.mobile-zone{padding:10px;background:#e8f3f7 url('../img/icon-robot.png') no-repeat right bottom;}
+.mobile-zone-con{padding:10px 0px 0px 60px;}
+.mobile-zone-con img{float:left;margin-left:-60px;display:inline;}
+
+.life_assist_item{position:relative;width:67px;height:70px;}
+.life_assist_item img{margin:0px;}
+.life_assist_item p{padding:0px;margin:0px;display:block;height:75px;position:relative}
+.life_assist_item p a {display:inline-block;background:url('../img/dock-bg.png') no-repeat center 44px;}
+.life_assist_item p a span{display:block;text-align:center;width:67px;padding-top:52px}
+.life_assist_item p a  img{position:absolute;left:16px;top:6px;}
+.life_assist_item p a:hover  img{top:5px;}
+.life_assist_item p a:hover{zoom:1}
+
+.section_login_new{}
+.section_login_new .field_item .field_item_title{width:57px;}
+.section_login_new .field_item_content{margin-left:62px;}
+.login-tips{color:#a9a9a9;padding-left:5px;}
+.login-bottom{text-align:center;padding-bottom:5px;}
+.btn-regsiter{display:inline-block;font-weight:700;color:#484848;text-align:center;line-height:27px;width:89px;height:25px;background:url('../img/btn_checkin.png') no-repeat}
+/**********************************
+* 2011-11-03 改版 End
+**********************************/
